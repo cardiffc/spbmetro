@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a5e1234-1100-4917-9bdf-687150e205e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestRouteCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestRouteCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRouteCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestRouteCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestRouteCalculator.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,22 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestRouteCalculator.testcalculateDuration">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="SPBMetro" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="All in SPBMetro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SPBMetro" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestRouteCalculator.testGetShortestRoute">
     <configuration name="TestRouteCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spb-metro" />
       <option name="PACKAGE_NAME" value="" />
@@ -96,6 +81,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestRouteCalculator.testCalculateDuration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spb-metro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRouteCalculator" />
+      <option name="METHOD_NAME" value="testCalculateDuration" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRouteCalculator.testGetShortestRoute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spb-metro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestRouteCalculator" />
+      <option name="METHOD_NAME" value="testGetShortestRoute" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestRouteCalculator.testcalculateDuration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spb-metro" />
       <option name="PACKAGE_NAME" value="" />
@@ -108,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestRouteCalculator.testGetShortestRoute" />
+        <item itemvalue="JUnit.TestRouteCalculator.testCalculateDuration" />
         <item itemvalue="JUnit.TestRouteCalculator.testcalculateDuration" />
         <item itemvalue="JUnit.TestRouteCalculator" />
         <item itemvalue="JUnit.TestRouteCalculator.calculateDuration" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.All in SPBMetro" />
       </list>
     </recent_temporary>
   </component>
@@ -128,23 +133,6 @@
       <updated>1559569584327</updated>
     </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="All_in_SPBMetro - 2019.06.03 at 18h 00m 44s.xml">
-      <configuration name="All in SPBMetro" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_SPBMetro - 2019.06.03 at 18h 05m 21s.xml">
-      <configuration name="All in SPBMetro" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_SPBMetro - 2019.06.03 at 18h 24m 12s.xml">
-      <configuration name="All in SPBMetro" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_SPBMetro - 2019.06.03 at 18h 24m 57s.xml">
-      <configuration name="All in SPBMetro" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_SPBMetro - 2019.06.03 at 18h 25m 45s.xml">
-      <configuration name="All in SPBMetro" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
