@@ -36,7 +36,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -61,7 +61,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestRouteCalculator.testGetShortestRoute">
+  <component name="RunManager" selected="JUnit.TestRouteCalculator.testCalculateDuration">
     <configuration name="TestRouteCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spb-metro" />
       <option name="PACKAGE_NAME" value="" />
@@ -113,8 +113,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestRouteCalculator.testGetShortestRoute" />
         <item itemvalue="JUnit.TestRouteCalculator.testCalculateDuration" />
+        <item itemvalue="JUnit.TestRouteCalculator.testGetShortestRoute" />
         <item itemvalue="JUnit.TestRouteCalculator.testcalculateDuration" />
         <item itemvalue="JUnit.TestRouteCalculator" />
         <item itemvalue="JUnit.TestRouteCalculator.calculateDuration" />
