@@ -1,0 +1,58 @@
+{
+    "stations" : {
+        "1" : [
+            "test1l1",
+            "test2l1",
+            "test3l1"
+        ],
+        "2" : [
+            "test1l2",
+            "test2l2",
+            "test3l2"
+        ],
+        "3" : [
+            "test1l3",
+            "test2l3",
+            "test3l3"
+        ]
+    },
+    "connections": [
+        [
+            {
+                "line": 1,
+                "station": "test3l1"
+            },
+            {
+                "line": 2,
+                "station": "test1l2"
+            }
+        ],
+        [
+            {
+                "line": 2,
+                "station": "test3l2"
+            },
+            {
+                "line": 3,
+                "station": "test3l1"
+            }
+        ]
+    ],
+    "lines" : [
+        {
+            "number" : 1,
+            "name" : "Кировско-Выборгская",
+            "color" : "red"
+        },
+        {
+            "number" : 2,
+            "name" : "Московско-Петроградская",
+            "color" : "blue"
+        },
+        {
+            "number" : 3,
+            "name" : "Невско-Василеостровская",
+            "color" : "green"
+        }
+    ]
+}
